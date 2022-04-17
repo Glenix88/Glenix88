@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Glenix88
+- 👋 Hi, I’m @Glenix88 i invent transform create destroy for a living when i dont like something about the world i change it....
 - 👀 I’m interested in ...PYTHON, INFOSEC, AUTOMATION
 - 🌱 I’m currently learning ...PYTHON, BASH, RUBY, PHP
 - 💞️ I’m looking to collaborate on ...ANYTHING REALLY ( LEARN BY DOING )
