@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Glenix88 i invent transform create destroy for a living when i dont like something about the world i change it....
-- 👀 I’m interested in ...PYTHON, INFOSEC, AUTOMATION
+- 👀 I’m interested in ...PYTHON, INFOSEC, AUTOMATION, BASH, RUBY, PHP, and Linux.....
 - 🌱 I’m currently learning ...PYTHON, BASH, RUBY, PHP
 - 💞️ I’m looking to collaborate on ...ANYTHING REALLY ( LEARN BY DOING )
 - 📫 How to reach me ...GLENDEHAHN@GMAIL.COM
