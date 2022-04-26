@@ -135,3 +135,20 @@
 # -O	    You are the owner of the file.
 # f1 -nt f2	file f1 is newer than f2.
 # f1 -ot f2	file f1 is older than f2
+
+
+# BASSIC TERMINAL SHORTCUTS
+
+# CTRL L = Clear the terminal
+# CTRL D = Logout
+# SHIFT Page Up/Down = Go up/down the terminal
+# CTRL A = Cursor to start of line
+# CTRL E = Cursor the end of line
+# CTRL U = Delete left of the cursor
+# CTRL K = Delete right of the cursor
+# CTRL W = Delete word on the left
+# CTRL Y = Paste (after CTRL U,K or W)
+# TAB = auto completion of file or command
+# CTRL R = reverse search history
+# !! = repeat last command
+# CTRL Z = stops the current command (resume with fg in foreground or bg in background)
