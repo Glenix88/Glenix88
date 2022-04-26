@@ -114,3 +114,24 @@
 # source	Read and executes commands from a specified file in the current shell.
 # times	    Displays the accumulated user and system shell time.
 # wait	    Make the shell wait for a job to finish.
+
+
+# FILE TEST OPERATORS
+
+#Operators	Explanation
+# -e	    To test if a file exists.
+# -f	    To test if a given file is a regular file.
+# -d	    To test if the file is a directory.
+# -b	    To test if the file is a block device.
+# -s	    To test if the file is not zero sizes.
+# -L	    To test if the file is a symbolic link.
+# -S	    To test if the file is a socket.
+# -r	    To test if the file has read permission.
+# -w	    To test if the file has write permission.
+# -x	    To test if the file has execute permission.
+# -g	    Set group id on file or directory.
+# -u	    Set user id on file or directory.
+# -k	    Set a sticky bit.
+# -O	    You are the owner of the file.
+# f1 -nt f2	file f1 is newer than f2.
+# f1 -ot f2	file f1 is older than f2
