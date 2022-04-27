@@ -1,0 +1,19 @@
+
+
+########____APACHE2___#######
+########____Configuration FILES___#########
+
+# Here is a brief description of the config files that are located at /etc/apache2/ 
+
+# ~apache2.conf-The main Apache2 configuration file that contains settings global
+# to Apache2.
+# ~conf-available- A directory that contains available configuration files.
+# ~conf-enabled- A directory that holds symlinks to the files in /etc/apache2/conf-available.
+# ~envvars- A file where Apache enviroment variables are set.
+# ~magic- A text file with instructions for determining MIME type based on the first few bytes of a file.
+# ~mods-available- A directory that contains configuration files to both load modules and configure them.
+# ~mods-enabled- A directory that holds symlinks to the files in /etc/apache2/mods-available.
+# ~ports.conf- A configuration file that houses the directives that determine the TCP pord Apaches is listening on.
+# ~sites-available A directory that has configuration files for Apache Virtual Hosts. Virtual Hosts 
+# ~allow Apache2 to be configured for multiple sites that have seperate configurations.
+# ~sites-enabled- a direcory that contains symlinks to the /etc/apache2/sites-available directory.
